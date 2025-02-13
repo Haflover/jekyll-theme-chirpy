@@ -1,5 +1,9 @@
 # frozen_string_literal: true
+# Remove `sass-embedded`
+# gem "sass-embedded"
 
+# Use `sassc` instead (compatible replacement)
+gem "sassc"
 source "https://rubygems.org"
 
 gemspec
