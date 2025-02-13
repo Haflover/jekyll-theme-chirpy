@@ -6,3 +6,4 @@
   RUBY_VERSION = "3.1.0"
   BUNDLER_VERSION = "2.4.0"
   NODE_VERSION = "18"
+  SASS_PATH = "/opt/buildhome/.local/bin"
